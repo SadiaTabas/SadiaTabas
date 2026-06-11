@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%7C+NestJS+%7C+Next.js+%7C+ASP.NET;Building+real-world+systems+%F0%9F%8F%97%EF%B8%8F;Databases+%26+System+Design+Enthusiast+%F0%9F%97%83%EF%B8%8F;Building+for+impact%2C+learning+for+the+future+%F0%9F%8C%B1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%7C+NestJS+%7C+Next.js+%7C+ASP.NET;Building+real-world+Solutions%F0%9F%8F%97%EF%B8%8F;Databases+%26+System+Design+Enthusiast+%F0%9F%97%83%EF%B8%8F;Building+for+impact%2C+learning+for+the+future+%F0%9F%8C%B1)
 
 </div>
 
