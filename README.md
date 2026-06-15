@@ -75,7 +75,7 @@ const sadia = {
 |---|---------|-------------|------------|
 | 🏥 | [**MediCore** – Hospital Management](https://github.com/SadiaTabas/Medicore_Hospital_Management) | Full-stack hospital system with JWT auth, doctor & appointment management | NestJS · Next.js · PostgreSQL · TypeScript |
 | 🍽️ | [**Restaurant Management System**](https://github.com/SadiaTabas/Restaurant-Management-System) | Complete restaurant ops: menu, tables, orders, reservations & staff | ASP.NET Core · C# · SQL Server |
-| 💝 | [**Donation Management System**](https://github.com/SadiaTabas/DonationManagementSystem) | Transparent donation platform for managing campaigns, donors, and volunteers | ASP.NET Core · C# · SQL Server |
+| 💝 | [**Donation Management System**](https://github.com/SadiaTabas/DonationManagementSystem) | Transparent donation platform for managing campaigns, donors, and volunteers | C# · SQL Server |
 | 🚇 | [**Dhaka Metro Rail Ticket System**](https://github.com/SadiaTabas/Dhaka-Metro-Rail) | End-to-end metro ticketing system with booking, payments, and route management | PHP · MySQL · JavaScript |
 | 🛡️ | [**SafeHer** – Women's Safety App](https://github.com/SadiaTabas/SafeHer-A-Women-s-Safety-Application) | Mobile safety app with SOS, live tracking & anonymous incident reporting | Agile/Scrum · Figma · AIUB |
 | ✈️ | [**AirMania**](https://github.com/SadiaTabas/AirMania) | Airline management system | Java · JavaFX |
